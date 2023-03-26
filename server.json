@@ -79,6 +79,14 @@
       "type": "outcome",
       "createdAt": "2023-03-26T13:56:45.276Z",
       "id": 10
+    },
+    {
+      "description": "Criação de Site Institucional",
+      "price": 1005,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-03-26T15:54:44.455Z",
+      "id": 11
     }
   ]
 }
