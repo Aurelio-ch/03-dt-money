@@ -31,6 +31,54 @@
       "type": "income",
       "createdAt": "2023-03-26T12:57:11.848Z",
       "id": 4
+    },
+    {
+      "description": "Guaraná da Amazônia",
+      "price": 7,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-03-26T13:41:53.878Z",
+      "id": 5
+    },
+    {
+      "description": "Criação de Site Institucional",
+      "price": 1000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-03-26T13:43:37.897Z",
+      "id": 6
+    },
+    {
+      "description": "Guaraná da Amazônia",
+      "price": 763,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-03-26T13:44:04.988Z",
+      "id": 7
+    },
+    {
+      "description": "Criação de Site Institucional",
+      "price": 1000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-03-26T13:47:01.673Z",
+      "id": 8
+    },
+    {
+      "description": "Criação de Site Institucional",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-03-26T13:56:34.773Z",
+      "id": 9
+    },
+    {
+      "description": "Guaraná da Amazônia",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-03-26T13:56:45.276Z",
+      "id": 10
     }
   ]
 }
