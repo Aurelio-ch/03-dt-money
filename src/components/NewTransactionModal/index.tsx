@@ -35,7 +35,7 @@ export function NewTransactionModal() {
       price,
       category,
       type,
-      createAt: new Date()
+      createdAt: new Date()
     })
 
     reset();
